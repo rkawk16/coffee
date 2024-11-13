@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(242, 242, 242);
+}
+ #a {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 2px #000000;
+    width: 900px;
+    height: 50PX;
+    background: linear-gradient(45deg, #009fa5, #fdff7a);
+    margin: 0 auto;
+    background-size: cover;
+    margin-bottom: 10px;
+ }
+ #wrapper{
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid #a2a2a2;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+
+}
